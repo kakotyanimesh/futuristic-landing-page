@@ -67,8 +67,17 @@ header {
     background-size: cover;
     padding: 1.5rem 1.5rem 2.5rem 1.5rem;
     width: 100%;
+
 }
 
+.firsttext{
+    padding-left: 252px;
+
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+}
 
 .navbar {
     display: flex;
